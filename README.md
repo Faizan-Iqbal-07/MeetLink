@@ -20,6 +20,15 @@ MeetLink is a full-stack **real-time video conferencing platform** built with th
 
 ---
 
+## 🚦 How It Works
+
+1. Sign up or log in to your account
+2. Host a new session or join an existing one via link
+3. Share video, audio, screen, and chat in real time
+4. Track and manage all your sessions from the dashboard
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend:** React.js, Tailwind CSS
